@@ -1,0 +1,14 @@
+WARMIE — Image rename mapping
+
+Old filename → New filename
+Screenshot_2026-09-17_230220-removebg-preview (1).png → warmie-logo.png
+tui-chuom-bung-mochi.png → tui-chuom-bung-mochi.png
+tui-chuom-co-vai-gay.png → tui-chuom-co-vai-gay.png
+túi chườm bao tử.png → tui-chuom-da-nang.png
+tui rút.png → tui-rut.png
+Set qua.jpg → set-qua.jpg
+1790172057371_7868677055974255845_g7110373540463099259_aca8d4bfc9082dc8d22b30f109ae0fa6.jpg → set-qua-2.jpg
+GỪNG.png → gung.png
+HOA HỒI.png → hoa-hoi.png
+NGẢI CỨU.png → ngai-cuu.png
+SẢ.png → sa.png

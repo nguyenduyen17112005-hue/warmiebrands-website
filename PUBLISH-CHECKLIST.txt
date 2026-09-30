@@ -1,0 +1,14 @@
+WARMIE — Publish checklist
+
+1. Upload toàn bộ file trong folder này lên cùng một thư mục GitHub Pages.
+2. Mở website trên desktop và mobile.
+3. Test 7 menu: Trang chủ / Về Warmie / Sản phẩm / Tin tức / Blog / Tuyển dụng / Liên hệ.
+4. Test thêm giỏ hàng, tăng giảm số lượng và nút Đặt hàng.
+5. Test Google Forms: nút Đặt hàng phải mở https://forms.gle/bMzDpcoRLm3Y3Z3A9.
+6. Test email: form Liên hệ mở ứng dụng email với người nhận warmiebrand@gmail.com.
+7. Test tel: trên điện thoại.
+8. Kiểm tra ảnh không lỗi và đường dẫn phân biệt chữ hoa/chữ thường.
+9. Test giao diện 360px, 390px, tablet và desktop.
+10. Kiểm tra tiêu đề trang, mô tả SEO, favicon và social links.
+11. Nếu đổi domain GitHub Pages sau này, có thể bổ sung canonical và og:url theo URL thật.
+12. Nếu dùng Google Analytics, chọn Đồng ý trên banner để bật đo lường.
